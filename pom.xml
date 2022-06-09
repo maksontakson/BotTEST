@@ -28,7 +28,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.src.main.java.Application</mainClass>
+                            <mainClass>org.vladyka:telegram-simple-bot-java:1.0.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
