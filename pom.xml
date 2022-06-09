@@ -28,7 +28,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.java.Application</mainClass>
+                            <mainClass>com.src.main.java.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
